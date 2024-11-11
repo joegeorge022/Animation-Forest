@@ -56,7 +56,7 @@ body{
     stroke-width: 0.1;
     stroke-dasharray: 50;
     stroke-dashoffset: 50;
-    animation: textAnimation 4s ease-in-out 1 forwards;
+    animation: textAnimation 9s ease-in-out 1 forwards;
   }
   @keyframes textAnimation {
     0% {
